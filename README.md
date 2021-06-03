@@ -1,2 +1,2 @@
 # blender
-Playground repo for storing my personal Blender projects
+Playground repo to store my personal Blender projects
